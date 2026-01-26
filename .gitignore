@@ -1,0 +1,28 @@
+# Environnement virtuel
+bioenv/
+venv/
+env/
+bin/
+include/
+lib/
+lib64/
+share/
+etc/
+pyvenv.cfg
+*.pyc
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*~
