@@ -1,6 +1,6 @@
 # 🧬 BioSeq Analyzer - Mini-Projet Biopython
 
-Projet d'analyse de séquences biologiques développé dans le cadre du Master **Bioinformatique et Intelligence Artificielle pour la Médecine de Précision (BIAM)**.
+Projet d'analyse de séquences biologiques 
 
 ## 📌 Description
 
@@ -122,21 +122,10 @@ Le projet génère :
 - API REST (NCBI)
 - Traitement de données
 
-## 👤 Auteur
-
-**ELKHRAIBI Jihane**  
-Master Bioinformatique et Intelligence Artificielle pour la Médecine de Précision (BIAM)  
-📧 jihaneelkhraibi15@outlook.com
-
 ## 📄 Licence
 
-Ce projet est développé dans un cadre académique - Master BIAM.
+Ce projet est développé dans un cadre académique
 
-## 🙏 Remerciements
-
-- Équipe pédagogique du Master BIAM
-- Biopython Team
-- NCBI pour l'accès aux données biologiques
 
 ## 📖 Documentation
 
